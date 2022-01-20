@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_live_website/static/css/main.0d5671d7.css",
+    "main.js": "/react_live_website/static/js/main.99820313.js",
+    "static/media/marketing.jpeg": "/react_live_website/static/media/marketing.e0e23a0cb85facf804ef.jpeg",
+    "static/media/web.png": "/react_live_website/static/media/web.6da56a4184a1aeaab77b.png",
+    "static/media/Software.jpg": "/react_live_website/static/media/Software.ec19c8fb331d5a1649df.jpg",
+    "static/media/istockphoto-1096969570-612x612.jpg": "/react_live_website/static/media/istockphoto-1096969570-612x612.586ddc9b41327f0aa611.jpg",
+    "static/media/img2.jpg": "/react_live_website/static/media/img2.44fc0997ac15c5372d4d.jpg",
+    "index.html": "/react_live_website/index.html",
+    "main.0d5671d7.css.map": "/react_live_website/static/css/main.0d5671d7.css.map",
+    "main.99820313.js.map": "/react_live_website/static/js/main.99820313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5671d7.css",
+    "static/js/main.99820313.js"
+  ]
+}
